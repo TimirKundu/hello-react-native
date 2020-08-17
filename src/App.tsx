@@ -22,7 +22,7 @@ export default class App extends Component<Props> {
         </Text>
         <Text>
           {useHermes
-            ? 'JavaScript engine: Hermes'
+            ? 'Timir'
             : 'JavaScript engine: JavaScriptCore'}
         </Text>
       </View>
